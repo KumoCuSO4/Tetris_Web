@@ -1,3 +1,3 @@
 # WebTest
 Test for Web
-<https://kumocuso4.github.io/WebTest/>
+<https://kumocuso4.github.io/Tetris_Web/>
